@@ -23,13 +23,14 @@
     <published>2019-03-17T02:41:59.000Z</published>
     <updated>2019-03-17T04:10:03.213Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="我的博客还能恢复吗？"><a href="#我的博客还能恢复吗？" class="headerlink" title="我的博客还能恢复吗？"></a>我的博客还能恢复吗？</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">mycode</span><span class="params">()</span>:</span></span><br><span class="line">print(<span class="string">'hello word'</span>)</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="我的博客还能恢复吗？"><a href="#我的博客还能恢复吗？" class="headerlink" title="我的博客还能恢复吗？"></a>我的博客还能恢复吗？</h1><pre><code class="python">def mycode():    print(&#39;hello word&#39;)</code></pre>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;我的博客还能恢复吗？&quot;&gt;&lt;a href=&quot;#我的博客还能恢复吗？&quot; class=&quot;headerlink&quot; title=&quot;我的博客还能恢复吗？&quot;&gt;&lt;/a&gt;我的博客还能恢复吗？&lt;/h1&gt;&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;
+        &lt;h1 id=&quot;我的博客还能恢复吗？&quot;&gt;&lt;a href=&quot;#我的博客还能恢复吗？&quot; class=&quot;headerlink&quot; title=&quot;我的博客还能恢复吗？&quot;&gt;&lt;/a&gt;我的博客还能恢复吗？&lt;/h1&gt;&lt;pre&gt;&lt;code class=&quot;python&quot;&gt;def mycode():
+ 
       
     
     </summary>
